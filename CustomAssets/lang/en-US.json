@@ -1,0 +1,9 @@
+{
+
+"ASSETS.NAME[<asset's raw name>]": "<asset's display name>",
+"ASSETS.DESCRIPTION[<asset's raw name>]": "<asset's description>",
+
+"ASSETS.NAME[<asset's raw name1>]": "<asset's display name1>",
+"ASSETS.DESCRIPTION[<asset's raw name>]": "<asset's description1>"
+
+}
